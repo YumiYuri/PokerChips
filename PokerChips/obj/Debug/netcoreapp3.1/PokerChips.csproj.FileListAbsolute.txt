@@ -1,0 +1,14 @@
+D:\projetcs\JosePoker\PokerChips\bin\Debug\netcoreapp3.1\PokerChips.exe
+D:\projetcs\JosePoker\PokerChips\bin\Debug\netcoreapp3.1\PokerChips.deps.json
+D:\projetcs\JosePoker\PokerChips\bin\Debug\netcoreapp3.1\PokerChips.runtimeconfig.json
+D:\projetcs\JosePoker\PokerChips\bin\Debug\netcoreapp3.1\PokerChips.runtimeconfig.dev.json
+D:\projetcs\JosePoker\PokerChips\bin\Debug\netcoreapp3.1\PokerChips.dll
+D:\projetcs\JosePoker\PokerChips\bin\Debug\netcoreapp3.1\PokerChips.pdb
+D:\projetcs\JosePoker\PokerChips\obj\Debug\netcoreapp3.1\PokerChips.csproj.AssemblyReference.cache
+D:\projetcs\JosePoker\PokerChips\obj\Debug\netcoreapp3.1\PokerChips.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetcs\JosePoker\PokerChips\obj\Debug\netcoreapp3.1\PokerChips.AssemblyInfoInputs.cache
+D:\projetcs\JosePoker\PokerChips\obj\Debug\netcoreapp3.1\PokerChips.AssemblyInfo.cs
+D:\projetcs\JosePoker\PokerChips\obj\Debug\netcoreapp3.1\PokerChips.csproj.CoreCompileInputs.cache
+D:\projetcs\JosePoker\PokerChips\obj\Debug\netcoreapp3.1\PokerChips.dll
+D:\projetcs\JosePoker\PokerChips\obj\Debug\netcoreapp3.1\PokerChips.pdb
+D:\projetcs\JosePoker\PokerChips\obj\Debug\netcoreapp3.1\PokerChips.genruntimeconfig.cache
